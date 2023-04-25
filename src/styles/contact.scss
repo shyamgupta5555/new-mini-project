@@ -13,7 +13,7 @@
     height: 40rem;
     width: 70%;
     padding: 3rem;
-    border-radius: 0 200px;
+    border-radius: 0  200px;
 
     > form {
       margin: 5rem;
@@ -41,6 +41,7 @@
           border-radius: 5px;
           border: 1px solid rgba(123, 123, 123, 0.6);
           outline: none;
+         
         }
       }
 
@@ -55,6 +56,7 @@
         font: 500 1rem $text1;
         &:hover {
           opacity: 0.9;
+          background-color: green;
         }
       }
     }

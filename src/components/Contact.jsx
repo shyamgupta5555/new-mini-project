@@ -9,7 +9,7 @@ function Contact() {
       <form>
         <div>
           <label>Name</label>
-          <input type="text" required placeholder="Abc" />
+          <input type="text" required placeholder="Full Name" />
         </div>
 
         <div>

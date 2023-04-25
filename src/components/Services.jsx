@@ -18,16 +18,16 @@ function Services() {
       >
         <div>
           <img src={img1} alt="item1" />
-          <p className="">Full Stack</p>
+          <p  className="legend">Full Stack</p>
         </div>
         <div>
           <img src={img2} alt="item2" />
-          <p>peer-to-peer help</p>
+          <p className="legend">React & Node Js & Javascript</p>
         </div>
        
         <div>
           <img src={img4} alt="item2" />
-          <p>peer-to-peer help</p>
+          <p className="legend"> Block Chain </p>
         </div>
       </Carousel>
     </div>

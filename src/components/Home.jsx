@@ -13,7 +13,7 @@ export function Home() {
     <>
       <div className="home" id ="home">
         <main>
-          <h1>shyam tecky</h1>
+          <h1>Techy Star</h1>
           <p>Solution to all your problem</p>
         </main>
       </div>
@@ -32,7 +32,7 @@ export function Home() {
 
       <div className="home3" id="about">
         <div>
-          <h1> who w are ?</h1>
+          <h1> who we are ?</h1>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos
             aliquid debitis adipisci excepturi repudiandae aperiam pariatur,
